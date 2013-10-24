@@ -1,0 +1,54 @@
+[submodule "cordova-ios"]
+	path = cordova-ios
+	url = git@github.com:apache/cordova-ios.git
+[submodule "cordova-plugin-camera"]
+	path = cordova-plugin-camera
+	url = git@github.com:apache/cordova-plugin-camera.git
+[submodule "cordova-plugin-media"]
+	path = cordova-plugin-media
+	url = git@github.com:apache/cordova-plugin-media.git
+[submodule "cordova-plugin-file"]
+	path = cordova-plugin-file
+	url = git@github.com:apache/cordova-plugin-file.git
+[submodule "cordova-plugin-dialogs"]
+	path = cordova-plugin-dialogs
+	url = git@github.com:apache/cordova-plugin-dialogs.git
+[submodule "cordova-plugin-media-capture"]
+	path = cordova-plugin-media-capture
+	url = git@github.com:apache/cordova-plugin-media-capture.git
+[submodule "cordova-plugin-splashscreen"]
+	path = cordova-plugin-splashscreen
+	url = git@github.com:apache/cordova-plugin-splashscreen.git
+[submodule "cordova-plugin-contacts"]
+	path = cordova-plugin-contacts
+	url = git@github.com:apache/cordova-plugin-contacts.git
+[submodule "cordova-plugin-device-motion"]
+	path = cordova-plugin-device-motion
+	url = git@github.com:apache/cordova-plugin-device-motion.git
+[submodule "cordova-plugin-file-transfer"]
+	path = cordova-plugin-file-transfer
+	url = git@github.com:apache/cordova-plugin-file-transfer.git
+[submodule "cordova-plugin-vibration"]
+	path = cordova-plugin-vibration
+	url = git@github.com:apache/cordova-plugin-vibration.git
+[submodule "cordova-plugin-device"]
+	path = cordova-plugin-device
+	url = git@github.com:apache/cordova-plugin-device.git
+[submodule "cordova-plugin-geolocation"]
+	path = cordova-plugin-geolocation
+	url = git@github.com:apache/cordova-plugin-geolocation.git
+[submodule "cordova-plugin-network-information"]
+	path = cordova-plugin-network-information
+	url = git@github.com:apache/cordova-plugin-network-information.git
+[submodule "cordova-plugin-battery-status"]
+	path = cordova-plugin-battery-status
+	url = git@github.com:apache/cordova-plugin-battery-status.git
+[submodule "cordova-plugin-console"]
+	path = cordova-plugin-console
+	url = git@github.com:apache/cordova-plugin-console.git
+[submodule "cordova-plugin-device-orientation"]
+	path = cordova-plugin-device-orientation
+	url = git@github.com:apache/cordova-plugin-device-orientation.git
+[submodule "cordova-plugin-globalization"]
+	path = cordova-plugin-globalization
+	url = git@github.com:apache/cordova-plugin-globalization.git
