@@ -1,3 +1,6 @@
+[submodule "Podspecs"]
+	path = Podspecs
+	url = git@github.com:rivera-ernesto/Cordova-Podspecs.git
 [submodule "cordova-ios"]
 	path = cordova-ios
 	url = git@github.com:apache/cordova-ios.git
