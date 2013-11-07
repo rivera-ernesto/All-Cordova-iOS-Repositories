@@ -55,3 +55,6 @@
 [submodule "cordova-plugin-globalization"]
 	path = cordova-plugin-globalization
 	url = git@github.com:apache/cordova-plugin-globalization.git
+[submodule "cordova-plugin-inappbrowser"]
+	path = cordova-plugin-inappbrowser
+	url = git@github.com:apache/cordova-plugin-inappbrowser.git
