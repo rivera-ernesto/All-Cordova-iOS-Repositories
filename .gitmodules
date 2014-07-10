@@ -61,3 +61,6 @@
 [submodule "Podspecs Tests"]
 	path = Podspecs Tests
 	url = git@github.com:rivera-ernesto/Cordova-Podspecs-Tests.git
+[submodule "hello"]
+	path = hello
+	url = git@github.com:rivera-ernesto/Cordova-helloworld.git
